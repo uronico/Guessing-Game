@@ -13,7 +13,7 @@ I create this program to show what I learned about Java language. Such as using 
 
 Video Demonstration:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/JLcb8sURonQ)
 
 # Development Environment
 
